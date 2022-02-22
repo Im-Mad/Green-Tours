@@ -1,5 +1,5 @@
-# Natours
-This is a project to practice my node JS skills
+# Green Tours
+Green Tours is a plateform to connect tours lovers to an agency that organize camps, excursions and trips.
 
 ## Technologies Used
 
